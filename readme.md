@@ -1,6 +1,11 @@
 # What Does It Do?
 A fast and simple way to encode a javascript object into a string that can be used for POST/GET params for xhr2 requests.
+
 ## How To Use
+```sh
+npm i serialize-for-xhr --save
+```
+
 ```js
 var serialize = require('serialize-for-xhr')
 
