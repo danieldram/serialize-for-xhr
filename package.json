@@ -1,0 +1,23 @@
+{
+  "name": "serialize-for-xhr",
+  "version": "0.1.2",
+  "description": "Serialize JavaScript Objects into XHR2 POST param equivalent",
+  "main": "serialize-for-xhr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "serialize",
+    "javascript",
+    "object",
+    "xhr",
+    "post",
+    "parameter"
+  ],
+  "author": "user187291 on StackExchange & Daniel Ram",
+  "license": "ISC"
+}
