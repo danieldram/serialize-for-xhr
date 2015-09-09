@@ -1,23 +1,24 @@
 {
-  "name": "serialize-for-xhr",
-  "version": "0.1.2",
-  "description": "Serialize JavaScript Objects into XHR2 POST param equivalent",
-  "main": "serialize-for-xhr.js",
-  "scripts": {
+    "name": "serialize-for-xhr",
+    "version": "0.1.3",
+    "description": "Serialize JavaScript Objects into XHR2 POST param equivalent",
+    "main": "serialize-for-xhr.js",
+    "readme": "readme.md",
+    "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
+    },
+    "repository": {
     "type": "git",
     "url": "https://github.com/danieldram/serialize-for-xhr"
-  },
-  "keywords": [
+    },
+    "keywords": [
     "serialize",
     "javascript",
     "object",
     "xhr",
     "post",
     "parameter"
-  ],
-  "author": "user187291 on StackExchange & Daniel Ram",
-  "license": "ISC"
+    ],
+    "author": "user187291 on StackExchange & Daniel Ram",
+    "license": "ISC"
 }
